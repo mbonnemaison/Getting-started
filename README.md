@@ -1,7 +1,6 @@
-Radioactivity
+Getting started with GitHub
 =============
-This repository was created a long time ago. Mmm... but what did I mean by radioactivity? What did I want to show the world then? That's a mystery...
-Neverming radioactivity, it is time to understand GitHub and get some projects going.
+This file helps figure out markdown's basic syntax.
 
 ## This is a section header
 
@@ -35,4 +34,4 @@ Don't forget numbered lists:
 2. put your shoes on
 3. go outside
 
-Make sure to do #2 before #3, and [this is how to do a hyperlink](https://www.google.com/)!
+Make sure to do #2 before #3, and [this is how to do a hyperlink to Google.com](https://www.google.com/)!
