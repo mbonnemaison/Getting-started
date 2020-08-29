@@ -1,6 +1,7 @@
 Getting started with GitHub
 =============
-This file helps figure out markdown's basic syntax.
+This file is an .md file which means it is a markdown file.
+What's written below helps figure out markdown's basic syntax.
 
 ## This is a section header
 
@@ -34,4 +35,4 @@ Don't forget numbered lists:
 2. put your shoes on
 3. go outside
 
-Make sure to do #2 before #3, and [this is how to do a hyperlink to Google.com](https://www.google.com/)!
+Make sure to do #2 before #3, and [this is how to do a hyperlink to markdown.org](https://www.markdownguide.org/basic-syntax/)!
